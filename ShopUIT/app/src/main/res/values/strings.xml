@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopUIT</string>
+    <string name="username">Username:</string>
+    <string name="pass">Pass:</string>
+</resources>
