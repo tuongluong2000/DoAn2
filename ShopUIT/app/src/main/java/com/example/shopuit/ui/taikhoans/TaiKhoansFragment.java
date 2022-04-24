@@ -33,7 +33,11 @@ public class TaiKhoansFragment  extends Fragment {
     private TaiKhoansAdapter taiKhoansAdapter;
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        TaiKhoansViewModel taiKhoansViewModel = new ViewModelProvider(this, new TaiKhoansViewModelFactory()).get(TaiKhoansViewModel.class);
+        View root = inflater.inflate(R.layout.fragment_taikhoans, container, false);
+        return root;
+    }
+
+        /*TaiKhoansViewModel taiKhoansViewModel = new ViewModelProvider(this, new TaiKhoansViewModelFactory()).get(TaiKhoansViewModel.class);
         View root = inflater.inflate(R.layout.fragment_taikhoans, container, false);
         ContentLoadingProgressBar progress = root.findViewById(R.id.progress);
 
@@ -62,7 +66,10 @@ public class TaiKhoansFragment  extends Fragment {
             taiKhoansAdapter.setTaiKhoans(categories);
             progress.hide();
         });
+
         return root;
-    }
+
+         */
+
 
 }

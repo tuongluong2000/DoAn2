@@ -19,7 +19,7 @@ public class TaiKhoansActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_taikhoans);
 
-        Intent intent = getIntent();
+        /*Intent intent = getIntent();
         String categoryJson = intent.getStringExtra("TaiKhoan");
         TaiKhoan taiKhoan = new Gson().fromJson(categoryJson, TaiKhoan.class);
 
@@ -36,6 +36,6 @@ public class TaiKhoansActivity extends AppCompatActivity {
             fragment.setArguments(args);
             ft.replace(R.id.taikhoans_fragment_container, fragment);
             ft.commit();
-        }
+        }*/
     }
 }
