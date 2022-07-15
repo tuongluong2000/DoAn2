@@ -1,0 +1,118 @@
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\appsettings.Development.json
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\appsettings.json
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\ShopUIT.exe
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\ShopUIT.deps.json
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\ShopUIT.runtimeconfig.json
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\ShopUIT.runtimeconfig.dev.json
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\ShopUIT.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\ref\ShopUIT.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\ShopUIT.pdb
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.csproj.AssemblyReference.cache
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.AssemblyInfoInputs.cache
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.AssemblyInfo.cs
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.csproj.CoreCompileInputs.cache
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.MvcApplicationPartsAssemblyInfo.cs
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.MvcApplicationPartsAssemblyInfo.cache
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\staticwebassets\ShopUIT.StaticWebAssets.Manifest.cache
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\staticwebassets\ShopUIT.StaticWebAssets.xml
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\scopedcss\bundle\ShopUIT.styles.css
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.RazorTargetAssemblyInfo.cache
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.csproj.CopyComplete
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ref\ShopUIT.dll
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.pdb
+D:\hoc ki 8\Đồ án 2\ShopUIT\ShopUIT\obj\Debug\net5.0\ShopUIT.genruntimeconfig.cache
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\appsettings.Development.json
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\appsettings.json
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\ShopUIT.exe
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\ShopUIT.deps.json
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\ShopUIT.runtimeconfig.json
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\ShopUIT.runtimeconfig.dev.json
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\ShopUIT.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\ref\ShopUIT.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\ShopUIT.pdb
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.csproj.AssemblyReference.cache
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.AssemblyInfoInputs.cache
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.AssemblyInfo.cs
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.csproj.CoreCompileInputs.cache
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.MvcApplicationPartsAssemblyInfo.cs
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.MvcApplicationPartsAssemblyInfo.cache
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\staticwebassets\ShopUIT.StaticWebAssets.Manifest.cache
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\staticwebassets\ShopUIT.StaticWebAssets.xml
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\scopedcss\bundle\ShopUIT.styles.css
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.RazorTargetAssemblyInfo.cache
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.csproj.CopyComplete
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ref\ShopUIT.dll
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.pdb
+D:\hoc ki 8\DoAn2\Code\ShopUIT_API\ShopUIT\obj\Debug\net5.0\ShopUIT.genruntimeconfig.cache
