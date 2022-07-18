@@ -2,13 +2,17 @@ package com.example.shopuit.ui.home;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
 import androidx.annotation.NonNull;
+import androidx.constraintlayout.widget.ConstraintSet;
 import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -30,17 +34,24 @@ public class HomeFragment extends Fragment {
         ShopUITViewModel shopUITViewModel = new ViewModelProvider(this, new ShopUITViewModelFactory()).get(ShopUITViewModel.class);
         View root = inflater.inflate(R.layout.fragment_home, container, false);
 
-
+        FrameLayout loader = root.findViewById(R.id.loader_layout);
         RecyclerView sanphamsRecyclerView = root.findViewById(R.id.products_recycler_view);
 
 
         OnItemClickListener<SanPham> onSanPhamClickListener = (view, sanpham) -> {
-            Gson gson = new Gson();
-            String sanphamJson = gson.toJson(sanpham);
-            Intent intent = new Intent(getActivity(), CartFragment.class);
-            intent.putExtra("SanPham", sanphamJson);
-            intent.putExtra("CallerActivity", getActivity().getClass().getSimpleName());
-            startActivity(intent);
+
+            Fragment fragment = new ProductDetailsFragment();
+             ((ProductDetailsFragment) fragment).setSanPham(sanpham);
+            FragmentTransaction transaction = getFragmentManager().beginTransaction();
+
+            // Replace whatever is in the fragment_container view with this fragment,
+            // and add the transaction to the back stack
+            transaction.replace(R.id.home_nav_host_fragment, fragment);
+            transaction.addToBackStack(null);
+
+            // Commit the transaction
+            transaction.commit();
+
         };
 
         SanPhamsAdapter sanPhamsAdapter= new SanPhamsAdapter(root.getContext(), onSanPhamClickListener);
@@ -53,6 +64,7 @@ public class HomeFragment extends Fragment {
 
         shopUITViewModel.getAllSanPhams().observe(getViewLifecycleOwner(), sanphams -> {
             sanPhamsAdapter.setSanPhams(sanphams);
+            loader.setVisibility(View.GONE);
         });
 
         return root;

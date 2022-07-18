@@ -1,12 +1,16 @@
-﻿create database ShopUIT
+﻿use master
+
+drop database ShopUIT
+
+create database ShopUIT
 
 use ShopUIT
 
-drop table TaiKhoan
+
 
 create table PhanQuyen (
 	Id int IDENTITY(1,1) NOT NULL primary key,
-	TenPhanQuyen varchar (255) Not null
+	TenPhanQuyen nvarchar (255) Not null
 )
 
 
@@ -56,9 +60,9 @@ create table DonHang (
 	Idkh int,
 	thanhtien int,
 	ngaytao smalldatetime,
-	diachigiaohang varchar (255),
+	diachigiaohang nvarchar (255),
 	giagiaohang int,
-	trangthai varchar (255),
+	trangthai nvarchar (255),
 
 	CONSTRAINT fk_hd_tk FOREIGN KEY (idkh) REFERENCES KhachHang (id),
 )
@@ -78,11 +82,12 @@ create table CTDH (
 
 insert into PhanQuyen values ('admin'), ('khachhangthuong'), ('khachhangvip');
 insert into TaiKhoan values ('admin', '123', 1), ('user', '123',2), ('uservip', '123', 3);
-insert into KhachHang values ('admin','','','',1),('Nguyễn Văn A','Thủ Đức', '032345678','A@gmail.com',2),
-('Nguyễn Văn B','Bình Thạnh', '032345777','B@gmail.com',3);
-insert into LoaiSanPham values ('Áo thun nam'), ('Áo sơ mi nam'), ('Quần tây nam')
-insert into SanPham values ('Áo thun nam POLO trơn vải cá sấu cotton cao cấp ngắn tay cực sang trọng', 89000,500,'',1),
-('Áo thun trơn basic, Áo thun mỹ unisex nam nữ form rộng oversize chất liệu Cotton xuất xịn dày dặn 2 màu đen, trắng A2',75000, 815,'',1),
-('Áo sơ mi nam Vettino dài tay cổ bẻ dáng ôm Hàn Quốc vải lụa thái cao cấp chống nhăn',89000,1010,'',2),
-('Quần tây nam MMANS chất vải tuyết mưa ống côn co giãn dáng ôm body',159000, 95,'', 3);
+insert into KhachHang values ('admin','','','',1),(N'Nguyễn Văn A',N'Thủ Đức', '032345678','A@gmail.com',2),
+(N'Nguyễn Văn B',N'Bình Thạnh', '032345777','B@gmail.com',3);
+insert into LoaiSanPham values (N'Áo thun nam'), (N'Áo sơ mi nam'), (N'Quần tây nam')
+insert into SanPham values (N'Áo thun nam POLO trơn vải cá sấu cotton cao cấp ngắn tay cực sang trọng', 89000,500,'',1),
+(N'Áo thun trơn basic, Áo thun mỹ unisex nam nữ form rộng oversize chất liệu Cotton xuất xịn dày dặn 2 màu đen, trắng A2',75000, 815,'',1),
+(N'Áo sơ mi nam Vettino dài tay cổ bẻ dáng ôm Hàn Quốc vải lụa thái cao cấp chống nhăn',89000,1010,'',2),
+(N'Quần tây nam MMANS chất vải tuyết mưa ống côn co giãn dáng ôm body',159000, 95,'', 3);
+
 
